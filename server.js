@@ -11,7 +11,7 @@ app.use(express.json());
 
 // Endpoint de prueba
 app.get('/ping', (req, res) => {
-  res.send('rIAjoy está vivo, o no, pero responde.');
+  res.send('MarIAno está vivo, o no, pero responde.');
 });
 
 // Endpoint principal
