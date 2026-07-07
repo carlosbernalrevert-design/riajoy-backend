@@ -1,0 +1,12 @@
+{
+  "name": "riajoy-backend",
+  "version": "1.0.0",
+  "description": "Backend de rIAjoy para transformar noticias en columnas estilo Mariano Rajoy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
